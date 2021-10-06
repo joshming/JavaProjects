@@ -8,3 +8,6 @@ Collision resolution: Double hashing
 
 ## PacMan 
 Main Data Structure: Binary search tree
+
+## Bus Route
+Main Data Structure: Undirected graph 
