@@ -2,13 +2,13 @@
 
 These Java assignments were for my data structures and algorithm classes. Thus, they focussed on the data structures for each.
 
-## File Compressor 
+## [File Compressor](https://github.com/joshming/JavaProjects/tree/main/File_Compressor)
 Main data structure: Hash Table \\
 Collision resolution: Double hashing
 
-## PacMan 
+## [PacMan](https://github.com/joshming/JavaProjects/tree/main/PacMan)
 Main Data Structure: Binary search tree
-[Source Code](http://github.com/joshming/JavaProjects/main/tree/PacMan)
+
 In this version of PacMan, the game baord consisted of PacMan, barriers, opponents and goals. 
 
 ## Bus Route
