@@ -9,5 +9,7 @@ Collision resolution: Double hashing
 ## PacMan 
 Main Data Structure: Binary search tree
 
+In this version of PacMan, the game baord consisted of PacMan, barriers, opponents and goals. 
+
 ## Bus Route
 Main Data Structure: Undirected graph 
