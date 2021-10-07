@@ -8,8 +8,7 @@ Collision resolution: Double hashing
 
 ## PacMan 
 Main Data Structure: Binary search tree
-http://github.com - automatic!
-[GitHub](http://github.com)
+[Source Code](http://github.com/joshming/JavaProjects/main/tree/PacMan)
 In this version of PacMan, the game baord consisted of PacMan, barriers, opponents and goals. 
 
 ## Bus Route
